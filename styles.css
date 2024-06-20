@@ -1,0 +1,121 @@
+body {
+    position: relative;
+    width: 1523px;
+    height: 2240px;
+    border: 1px solid;
+    margin: 0;
+}
+
+.readMe {
+    background-color: #FFD900;
+    width: 100%;
+    height: 350px;
+}
+
+.version {
+    position: absolute;
+    width: 322px;
+    height: 24px;
+    top: 65px;
+    left: 140px;
+    font-family: 'SF Mono', monospace;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.87px;
+}
+
+
+.title {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 869px;
+    height: 239px;
+    top: 79px;
+    left: 131px;
+    font-family: 'New York Extra Large';
+    font-weight: 700;
+    font-size: 200px;
+    line-height:238px;
+}
+
+
+
+.intro h1 {
+    position: absolute;
+    width: 553px;
+    height: 53px;
+    top: 453px;
+    left: 131px;
+    font-family: 'New York Extra Large';
+    font-weight: 700;
+    font-size: 44px;
+    line-height:52.51px;
+}
+
+.intro p {
+    position: absolute;
+    width: 932px;
+    height: 96px;
+    top: 532px;
+    left: 134px;
+    font-family: 'SF Pro Text';
+    font-weight: 400;
+    font-size: 20px;
+    line-height:23.87px;
+    padding-left: 29px;
+    border-left-width: 6px;
+    border-left-style: solid;
+}
+
+.detail h1 {
+    position: absolute;
+    width: 565px;
+    height: 53px;
+    top: 925px;
+    left: 131px;
+    font-family: 'New York Extra Large';
+    font-weight: 700;
+    font-size: 44px;
+    line-height:52.51px;
+}
+
+.detail p {
+    border-left-width: 6px;
+    border-left-style: solid;
+    padding-bottom: 855px;
+    padding-left: 29px;
+    position: absolute;
+    width: 791px;
+    height: 72px;
+    top: 1002px;
+    left: 134px;
+    font-family: 'SF Pro Text';
+    font-weight: 400;
+    font-size: 20px;
+    line-height:23.87px;
+}
+
+.fonts img {
+    position: absolute;
+    width: 333.88px;
+    height: 50.22px;
+    top: 1132.8px;
+    left: 177.24px;
+}
+
+.fonts ul {
+    list-style-type: "- ";
+    position: absolute;
+    width: 656px;
+    height: 48px;
+    top: 1195px;
+    left: 174px;
+    font-family: 'SF Pro Text';
+    font-weight: 400;
+    font-size: 20px;
+    line-height:23.87px;
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
